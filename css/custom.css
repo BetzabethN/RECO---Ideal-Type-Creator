@@ -439,7 +439,17 @@ img::-moz-selection {
     display:inline-block;
 }
 
-.pic_selection img {
+#pic_selection {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.left_options, .right_options {
+    width: 45%;
+    float: left;
+}
+
+#pic_selection img {
     width: 150px;
     letter-spacing: 150px;
     border-radius: 8px;
