@@ -449,9 +449,14 @@ img::-moz-selection {
     float: left;
 }
 
-/**
-#pic_selection img {
+.left_options img {
     width: 150px;
     letter-spacing: 150px;
     border-radius: 8px;
-} **/
+} 
+
+.right_options img {
+    width: 150px;
+    letter-spacing: 150px;
+    border-radius: 8px;
+} 
