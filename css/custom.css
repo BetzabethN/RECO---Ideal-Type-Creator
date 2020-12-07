@@ -449,8 +449,9 @@ img::-moz-selection {
     float: left;
 }
 
+/**
 #pic_selection img {
     width: 150px;
     letter-spacing: 150px;
     border-radius: 8px;
-}
+} **/
