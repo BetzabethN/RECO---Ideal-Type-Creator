@@ -450,13 +450,11 @@ img::-moz-selection {
 }
 
 .left_options img {
-    width: 100px;
-    letter-spacing: 100px;
-    border-radius: 8px;
+    width: 150px;
+    letter-spacing: 150px;
 } 
 
 .right_options img {
     width: 150px;
     letter-spacing: 150px;
-    border-radius: 8px;
 } 
