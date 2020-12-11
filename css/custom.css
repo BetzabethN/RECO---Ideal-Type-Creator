@@ -451,10 +451,10 @@ img::-moz-selection {
 
 .left_options img {
     width: 150px;
-    letter-spacing: 150px;
+    height: 150px;
 } 
 
 .right_options img {
     width: 150px;
-    letter-spacing: 150px;
+    height: 150px;
 } 
