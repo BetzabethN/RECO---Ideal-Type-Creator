@@ -444,9 +444,15 @@ img::-moz-selection {
     margin: 0 auto;
 }
 
-.left_options, .right_options {
+.left_options {
     width: 45%;
     float: left;
+}
+
+.right_options {
+    width: 45%;
+    display: inline;
+    align-content: center;
 }
 
 .left_options img {
